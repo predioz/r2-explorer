@@ -2,7 +2,7 @@
 	"name": "r2-explorer-dev-worker",
 	"private": true,
 	"devDependencies": {
-		"wrangler": "^4.127.1"
+		"wrangler": "^4.151.3"
 	},
 	"scripts": {
 		"deploy": "wrangler deploy"
